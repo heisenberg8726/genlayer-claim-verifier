@@ -1,0 +1,11 @@
+genlayer-claim-verifier/
+│
+├── contracts/
+│   └── ClaimVerifier.py
+│
+├── tests/
+│   └── test_claim_verifier.py
+│
+├── README.md
+│
+└── LICENSE
